@@ -73,6 +73,7 @@ Use the Deploy Button below. It will let you deploy the starter using [Vercel](h
 npx vercel link
 ```
 
+
 Download the environment variables needed to connect Next.js and the Studio to your Sanity project:
 
 ```bash
